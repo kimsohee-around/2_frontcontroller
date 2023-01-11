@@ -1,6 +1,6 @@
-# Re_frontcontroller 
+## Re_frontcontroller 
 
-### 오류 메시지 원인
+#### 오류 메시지 원인
 1. HTTP 상태 405 – 허용되지 않는 메소드
 타입 상태 보고
 메시지 HTTP 메소드 GET은 이 URL에 의해 지원되지 않습니다.
