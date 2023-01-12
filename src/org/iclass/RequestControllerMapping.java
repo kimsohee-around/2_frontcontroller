@@ -10,6 +10,7 @@ import org.iclass.controller.MemberJoinController;
 import org.iclass.controller.MemberListController;
 import org.iclass.controller.MemberSaveController;
 import org.iclass.controller.MemberUpdateController;
+import org.iclass.controller.QnAController;
 import org.iclass.controller.ShopIndexController;
 import org.iclass.controller.ShopSaleController;
 
@@ -29,6 +30,7 @@ public class RequestControllerMapping {
 		mapping.put(new RequestKeyValue("/member/save","POST"),new MemberSaveController());
 		mapping.put(new RequestKeyValue("/login","GET"),new LoginController());
 		mapping.put(new RequestKeyValue("/login","POST"),new LoginProcessController());
+		mapping.put(new RequestKeyValue("/shop/qna","GET"), new QnAController());
 	}
 	
 	public static Controller getController(RequestKeyValue key) {

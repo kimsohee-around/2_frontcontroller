@@ -18,6 +18,7 @@
 	<li><a href="./">홈1</a></li>
 	<li><a href="./index">홈2</a></li>
 	<li><a href="login">로그인</a></li>
+	<li><a href="shop/qna">고객센터</a></li>
 </ul>
 </body>
 </html>
