@@ -1,5 +1,7 @@
-## Re_frontcontroller 
+### 3.FrontController 구현하기
 
+
+---
 #### 오류 메시지 원인
 - HTTP 상태 405  허용되지 않는 메소드
 타입 상태 보고
