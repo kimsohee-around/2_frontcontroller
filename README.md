@@ -1,5 +1,8 @@
-### 3.FrontController 구현하기
+### 2.FrontController 구현하기
 
+* FrontController 를 구현하여 url의 servletPath 와 method 요청 방식에 따라 이를 처리할 Controller 인터페이스 구현체를 생성하여
+각각의 기능을 처리하도록 함.
+* 프로젝트 탭 참고 https://github.com/users/kimsohee-around/projects/7
 
 ---
 #### 오류 메시지 원인
